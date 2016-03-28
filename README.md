@@ -1,5 +1,6 @@
-Codeigniter SmartyStreets.com LiveAddress API Integration
-=========================================================
+# [INACTIVE] Codeigniter SmartyStreets.com LiveAddress API Integration
+
+> **Warning:** This repo is no longer being mantianed. Use at your own risk.
 
 Add address cleaning and verification to a Codeigniter site with this handy little lib.
 
